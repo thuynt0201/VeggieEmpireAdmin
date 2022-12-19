@@ -34,7 +34,7 @@ body {
   border: none;
   outline: none;
   border-radius: 5px;
-  background: var(--bg--color);
+    background: #FFD705;    
   transition: all 0.2s linear;
 }
 .btn:hover {
